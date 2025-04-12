@@ -8,6 +8,7 @@
     <FileVersion>2.0</FileVersion>
     <Version>2.0</Version>
     <InformationalVersion>2.0</InformationalVersion>
+    <TargetFramework>net9.0</TargetFramework>
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="ReactiveUI" />

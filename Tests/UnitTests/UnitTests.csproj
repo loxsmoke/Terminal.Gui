@@ -79,5 +79,6 @@
 		<IncludeTestAssembly>
 			False
 		</IncludeTestAssembly>
+		<TargetFramework>net9.0</TargetFramework>
 	</PropertyGroup>
 </Project>

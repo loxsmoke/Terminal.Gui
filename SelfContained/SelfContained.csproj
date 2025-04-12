@@ -8,6 +8,7 @@
     <PublishSingleFile>true</PublishSingleFile>
     <InvariantGlobalization>false</InvariantGlobalization>
     <DebugType>embedded</DebugType>
+    <TargetFramework>net9.0</TargetFramework>
   </PropertyGroup>
 
   <ItemGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
